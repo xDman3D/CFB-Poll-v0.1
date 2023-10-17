@@ -15,18 +15,4 @@ Use `Constants.py` to tweak the values I use to generate the ranking. I have tri
 
 ---
 
-**Mean Elo:** 1550.19
-
-**Median Elo:** 1545.54
-
-**Standard Deviation of Elo:** 93.96
-
-**Easiest Strength of Schedule:** Rice
-
-**Hardest Strength of Schedule:** Army
-
-**Predictions Quality (Season):** 60.93% Correct
-
-**Predictions Quality (Week):** 63.83% Correct (Last Week: 75.0%)
-
 [Link to the github repository here] (https://github.com/xDman3D/CFB-Poll-v0.1/tree/main)
