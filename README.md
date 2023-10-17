@@ -1,4 +1,4 @@
-# CFB-Poll-v0.1 # CFB-Poll-v0.1 based on CFBPoll 4.0 by TheAlpacalypse - The Pandas Rewrite 
+# CFB-Poll-v0.1 based on CFBPoll 4.0 by TheAlpacalypse - The Pandas Rewrite 
 
 This update to the CFBPoll allows the computer to pull data from (https://collegefootballdata.com/) The aim of this is to make the poll easier to maintain and keep updated.
 
